@@ -4,16 +4,19 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-karl
+Karl Gran Grodaas
 
 # Why
 
-<explain why you made this module>
+This is part of the TFE4188 tutorial.
+
+It was made to (re)learn the fundamentals for the software used in the project.
 
 # How
 
-<explain short how you made this module>
+I followed the instructions in the tutorial...
 
+Mainly running `cicconf newip ex --project lelo --technology sky130A --ip  tech_sky130A/cicconf/lelo.yaml`
 
 # What
 
