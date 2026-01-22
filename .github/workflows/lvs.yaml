@@ -17,4 +17,4 @@ concurrency:
 
 jobs:
   lvs:
-    uses: karlside/jnw-actions/.github/workflows/lvs.yaml@main
+    uses: analogicus/jnw-actions/.github/workflows/lvs.yaml@main

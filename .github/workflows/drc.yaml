@@ -15,4 +15,4 @@ concurrency:
 
 jobs:
   drc:
-    uses: karlside/jnw-actions/.github/workflows/drc.yaml@main
+    uses: analogicus/jnw-actions/.github/workflows/drc.yaml@main
