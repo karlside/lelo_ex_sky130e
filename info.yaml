@@ -1,18 +1,11 @@
 library: LELO_EX_SKY130A
 cell: LELO_EX
-# Your name
-author: Anonymous
-# Your github username
-github: analogicus
-# Something funny and descriptive
-tagline: The answer is 42
-# Your email, if you so wish
-email: anon@anon.com
-# Your github site, usually <github username>.github.io
-url: analogicus.github.io
+author: Karl Gran Grodaas  
+github: karlside 
+tagline: Han shot first.. 
+email: karl@grodaas.com
+url: karlside.github.io
 doc:
-  # Make docs
-  #libraries:
-  #   <library>:
-  #       - <cell>
-  #       - <cell>
+  libraries:
+    LELO_EX_SKY130A
+      - LELO_EX
