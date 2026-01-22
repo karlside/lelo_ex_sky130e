@@ -15,4 +15,4 @@ concurrency:
 
 jobs:
   gds:
-    uses: analogicus/jnw-actions/.github/workflows/gds.yaml@main
+    uses: karlside/jnw-actions/.github/workflows/gds.yaml@main
