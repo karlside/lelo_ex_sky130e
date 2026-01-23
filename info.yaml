@@ -7,5 +7,5 @@ email: karl@grodaas.com
 url: karlside.github.io
 doc:
   libraries:
-    LELO_EX_SKY130A
+    LELO_EX_SKY130A:
       - LELO_EX
