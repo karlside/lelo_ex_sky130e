@@ -33,17 +33,6 @@ Mainly running `cicconf newip ex --project lelo --technology sky130A --ip  tech_
 
 | Signal       | Direction | Domain  | Description                               |
 | :---         | :---:     | :---:   | :---                                      |
-| VDD_1V8      | Input     | VDD_1V8 | Main supply                               |
-| OSC_TEMP_1V8 | Output    | VDD_1V8 | Temperature dependent oscillation frequency|
-| PWRUP_1V8    | Input     | VDD_1V8 | Power up the circuit
+| IBPS_5U      | Input     | -       | Input current                             |
+| IBNS_20U     | Output    | -       | Output current                            |
 | VSS          | Input     | Ground  |                                           |
-
-
-# Key parameters
-
-
-| Parameter           | Min     | Typ             | Max     | Unit  |
-| :---                | :---:   | :---:           | :---:   | :---: |
-| Technology          |         | Skywater 130 nm |         |       |
-| AVDD                | 1.7     | 1.8             | 1.9     | V     |
-| Temperature         | -40     | 27              | 125     | C     |
